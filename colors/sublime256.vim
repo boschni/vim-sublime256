@@ -46,7 +46,7 @@ hi TabLineSel      ctermfg=231  ctermbg=234  cterm=none term=none
 
 " Vim syntax highlighting
 hi Arguments       ctermfg=208  ctermbg=none cterm=none term=none
-hi Boolean         ctermfg=198  ctermbg=none cterm=none term=none
+hi Boolean         ctermfg=141  ctermbg=none cterm=none term=none
 hi link Character  Constant
 hi Comment         ctermfg=241  ctermbg=none cterm=none term=none
 hi link Conditional Statement
